@@ -7,14 +7,26 @@
         {
           "type": "button",
           "layout": "0,0,4,3",
+          "icon": "smart_display",
+          "color": "msx-red",
           "label": "YouTube",
-          "action": "link:https://www.youtube.com"
+          "action": "link:https://www.youtube.com/tv"
         },
         {
           "type": "button",
           "layout": "4,0,4,3",
+          "icon": "movie",
+          "color": "msx-purple",
           "label": "Stremio",
           "action": "link:https://web.stremio.com"
+        },
+        {
+          "type": "button",
+          "layout": "8,0,4,3",
+          "icon": "live_tv",
+          "color": "msx-blue",
+          "label": "Stremio TV",
+          "action": "link:https://tv.strem.io"
         }
       ]
     }
