@@ -1,5 +1,5 @@
 {
   "name": "My TV",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "parameter": "content:https://paulspark8.github.io/msx/menu.json"
 }
