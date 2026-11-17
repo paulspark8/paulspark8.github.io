@@ -1,0 +1,22 @@
+{
+  "type": "pages",
+  "headline": "My TV",
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,0,4,3",
+          "label": "YouTube",
+          "action": "link:https://www.youtube.com/tv"
+        },
+        {
+          "type": "button",
+          "layout": "4,0,4,3",
+          "label": "Stremio",
+          "action": "link:https://web.stremio.com"
+        }
+      ]
+    }
+  ]
+}
